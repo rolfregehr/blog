@@ -1,9 +1,8 @@
+comandos servidor.txt
 local.txt
 .env
 comandos.txt
-/djangoapp/static/
-/djangoapp/media/
-/djangoapp/project/local_settings.py
+local_settings.py
 gunicorn-error-log
 __localcode
 /data/
@@ -94,7 +93,6 @@ nosetests.xml
 coverage.xml
 *.cover
 .hypothesis/
-static/
 media/
 project/local_settings.py
 
