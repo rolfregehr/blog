@@ -1,6 +1,6 @@
 {
     "html.format.indentInnerHtml": true,
-    "window.zoomLevel": 2,
+    "window.zoomLevel": 1,
     "editor.fontSize": 16,
     "editor.hover.enabled": true,
     "workbench.startupEditor": "none",
@@ -10,8 +10,8 @@
         80,
         120
     ],
-    "workbench.colorTheme": "OM Theme (Default Dracula Italic)",
-    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "OM Theme (Night Owl Italic)",
+    "workbench.iconTheme": "vs-seti",
     "code-runner.executorMap": {
         "python": "clear ; python -u"
     },
